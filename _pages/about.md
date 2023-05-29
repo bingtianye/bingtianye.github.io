@@ -13,6 +13,6 @@ I am a theoretical physicist working at the intersection of atomic physics and m
 Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=SUtUnpAAAAAJ&hl=en&oi=ao) profile.
 
 Contact
-======
+-----
 Email: bingtian_ye@fas.harvard.edu
 Office: Jefferson 366, 17 Oxford St., Cambridge, MA, 02138
