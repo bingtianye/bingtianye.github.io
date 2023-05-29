@@ -22,11 +22,11 @@ Awards
 * 2014 - 2017   Weiming Scholarship for Undergraduate, School of Physics, Peking University (three times)
 * 2014 - 2017   Merit Student, School of Physics, Peking University (three times)
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
