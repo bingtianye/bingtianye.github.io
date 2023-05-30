@@ -32,7 +32,7 @@ __*Nature Communications*__ , (2023)
 L. B. Hughes, Z. Zhang, C. Jin, S. A. Meynell, __B. Ye__, W. Wu, Z. Wang, E. J. Davis, T. E. Mates, N. Y. Yao, K. Mukherjee, A. C. Bleszynski Jayich  
 __*APL Materials*__ 11, 021101 (2023)  
 
-* [Floquet Phases of Matter via Classical Prethermalization](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140603)  
+* [Universal Kardar-Parisi-Zhang Dynamics in Integrable Quantum Systems](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.230602)  
 __B. Ye__\*,  F. Machado\*, J. Kemp\*, R. B. Hutson, N. Y. Yao  
 __*Phys. Rev. Lett.*__ 129, 230602 (2022)  
 &emsp; $\circ$ *Editors' Suggestion*  
