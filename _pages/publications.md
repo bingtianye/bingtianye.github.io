@@ -35,7 +35,7 @@ __*APL Materials*__ 11, 021101 (2023)
 * [Floquet Phases of Matter via Classical Prethermalization](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140603)  
 __B. Ye__\*,  F. Machado\*, J. Kemp\*, R. B. Hutson, N. Y. Yao  
 __*Phys. Rev. Lett.*__ 129, 230602 (2022)  
-&emsp; $\circ$ __Editors' Suggestion__  
+&emsp; $\circ$ *Editors' Suggestion*  
 
 * [Exploiting disorder to probe spin and energy hydrodynamics](https://www.nature.com/articles/s41567-023-02024-4)  
 P. Peng\*, __B. Ye__\*, N. Y. Yao, P. Cappellaro  
