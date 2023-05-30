@@ -20,13 +20,13 @@ Awards
 -----
 2015 - present &ensp; Tang-Lixin Scholarship  
 2017 &emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;  Graduation with Honors, City of Beijing  
-2014 - 2017 &emsp;&ensp;&thinsp;  Weiming Scholarship for Undergraduate, School of Physics, Peking University (three times)  
+2014 - 2017 &emsp;&ensp;&thinsp;  Weiming Scholarship, School of Physics, Peking University (three times)  
 2014 - 2017 &emsp;&ensp;&thinsp;  Merit Student, School of Physics, Peking University (three times)  
 
   
 Teaching
 -----
-2019 &emsp;&emsp;&emsp;&emsp;&ensp;&thinsp; Teaching assistant for Advanced AMO Physics at Unversity of California, Berkeley
+2019 &emsp;&emsp;&ensp;&thinsp; Teaching assistant for Advanced AMO Physics at Unversity of California, Berkeley
   
   
 <!-- Talks
