@@ -38,7 +38,7 @@ Phys. Rev. Lett. 129, 230602 (2022)
 &emsp; $\circ$ Editors' Suggestion  
 
 * [_Exploiting disorder to probe spin and energy hydrodynamics_](https://www.nature.com/articles/s41567-023-02024-4)  
-P. Peng\*, __B. Ye__\*,N. Y. Yao, P. Cappellaro  
+P. Peng\*, __B. Ye__\*, N. Y. Yao, P. Cappellaro  
 Nature Physics 127, 140603 (2021)  
 &emsp; $\circ$ Nature Physics Research Briefing: [_A local probe for many-body physics_](https://www.nature.com/articles/s41567-023-02051-1)  
 
