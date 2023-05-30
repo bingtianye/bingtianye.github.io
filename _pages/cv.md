@@ -27,7 +27,7 @@ Awards
 Teaching
 -----
 2019 &ensp;&thinsp; teaching assistant for Advanced AMO Physics at Unversity of California, Berkeley  
-2017 &ensp;&thinsp; teaching assistant for General Physics at Peking University
+2017 &ensp;&thinsp; teaching assistant for General Physics at Peking University  
 2016 &ensp;&thinsp; teaching assistant for General Physics at Peking University
   
   
