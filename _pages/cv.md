@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 -----
-* 2022 - present   Ph.D candidate in physics, Harvard University
-* 2017 - 2022   Ph.D student in physics, University of California, Berkeley
-* 2013 - 2017   B.S. in physics, Peking University
+* 2022 - present  &ensp; Ph.D candidate in physics, Harvard University
+* 2017 - 2022 &ensp; Ph.D student in physics, University of California, Berkeley
+* 2013 - 2017 &ensp; B.S. in physics, Peking University
 
 Education
 -----
