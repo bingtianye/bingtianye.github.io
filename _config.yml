@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bingtian Ye"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Bingtian Ye"
 description              : &description "personal description"
