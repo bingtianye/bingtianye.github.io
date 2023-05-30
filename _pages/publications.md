@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 \*: Co-first author  
-$\dagger$: Co-corresponding author
+$^\dagger$: Co-corresponding author
 
 * [_Scalable spin squeezing in a dipolar Rydberg atom array_](https://arxiv.org/abs/2303.08053)  
 G. Bornet\*, G. Emperauger\*, C. Chen\*, __B. Ye__\*, M. Block\*, M. Bintz, J. A. Boyd, D. Barredo, T. Comparin, F. Mezzacapo, T. Roscilde, T. Lahaye, N. Y. Yao, A. Browaeys  
@@ -21,7 +21,7 @@ M. Block\*, __B. Ye__\*, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. 
 arxiv:2301.09636 (2023)  
 
 * [_Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond_](https://arxiv.org/abs/2212.11284) 
-G. He\*, __B. Ye__\*$\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu  
+G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu  
 arxiv:2212.11284 (2023)  
 
 * [_Coherent Dynamics of Strongly Interacting Electronic Spin Defects in Hexagonal Boron Nitride_](https://arxiv.org/abs/2210.11485)  
@@ -72,14 +72,14 @@ Phys. Rev. Lett. 126, 100604 (2021)
 __B. Ye__\*, F. Machado\*, C. D. White, R. S. K. Mong, N. Y. Yao  
 Phys. Rev. Lett. 125, 030601 (2020)
 
-* [_Measuring out-of-time-order correlators on a nuclear magnetic resonance quantum simulator_](https://physics.aps.org/articles/v10/82)  
-J. Li, R.-H. Fan, H.-Y. Wang, __B. Ye__, B. Zeng, H. Zhai, X.-H. Peng, J.-F. Du  
-Phy. Rev. X 7, 031011 (2017)  
-&emsp; $\circ$ Physics Viewpoint: [_Seeing Scrambled Spins_](https://physics.aps.org/articles/v10/82)
-
 * [_Many-body localization identified by entanglement in momentum space_](https://www.nature.com/articles/s41598-017-16889-y)  
 __B. Ye__, Z.-Y. Han, L.-Z. Mu, H. Fan  
 Sci. Rep. 7, 16668 (2017)
+
+* [Measuring out-of-time-order correlators on a nuclear magnetic resonance quantum simulator](https://physics.aps.org/articles/v10/82)  
+J. Li, R.-H. Fan, H.-Y. Wang, __B. Ye__, B. Zeng, H. Zhai, X.-H. Peng, J.-F. Du  
+_Phy. Rev. X_ 7, 031011 (2017)  
+&emsp; $\circ$ _Physics Viewpoint_: [Seeing Scrambled Spins](https://physics.aps.org/articles/v10/82)
 
 * [_Entanglement Spectrum of Su-Schrieffer-Heeger-Hubbard Model_](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165167))  
 __B. Ye__, L.-Z. Mu, H. Fan  
