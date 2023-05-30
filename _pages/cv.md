@@ -15,6 +15,13 @@ Education
 * 2017 - 2022   Ph.D student in physics, University of California, Berkeley
 * 2013 - 2017   B.S. in physics, Peking University
 
+Education
+-----
+:-----|:----  
+2022 - present|Ph.D candidate in physics, Harvard University
+2017 - 2022|Ph.D student in physics, University of California, Berkeley
+2013 - 2017|B.S. in physics, Peking University
+
 Awards
 -----
 * 2015 - present   Tang-Lixin Scholarship
