@@ -11,22 +11,17 @@ redirect_from:
 
 Education
 -----
-* 2022 - present  &ensp; Ph.D candidate in physics, Harvard University
-* 2017 - 2022 &emsp;&ensp; Ph.D student in physics, University of California, Berkeley
-* 2013 - 2017 &emsp; B.S. in physics, Peking University
-
-Education
------
-2022 - present   Ph.D candidate in physics, Harvard University  
-2017 - 2022   Ph.D student in physics, University of California, Berkeley  
-2013 - 2017   B.S. in physics, Peking University  
+2022 - present  &ensp; Ph.D candidate in physics, Harvard University
+2017 - 2022 &emsp;&ensp; Ph.D student in physics, University of California, Berkeley
+2013 - 2017 &emsp;&ensp; B.S. in physics, Peking University
+ 
 
 Awards
 -----
-* 2015 - present   Tang-Lixin Scholarship
-* 2017   Graduation with Honors, City of Beijing
-* 2014 - 2017   Weiming Scholarship for Undergraduate, School of Physics, Peking University (three times)
-* 2014 - 2017   Merit Student, School of Physics, Peking University (three times)
+2015 - present &ensp; Tang-Lixin Scholarship
+2017 &emsp;&ensp;  Graduation with Honors, City of Beijing
+2014 - 2017 &ensp;  Weiming Scholarship for Undergraduate, School of Physics, Peking University (three times)
+2014 - 2017 &ensp;  Merit Student, School of Physics, Peking University (three times)
   
 <!-- Talks
 ======
