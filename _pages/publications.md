@@ -81,7 +81,7 @@ J. Li, R.-H. Fan, H.-Y. Wang, __B. Ye__, B. Zeng, H. Zhai, X.-H. Peng, J.-F. Du
 __*Phy. Rev. X*__ 7, 031011 (2017)  
 &emsp; $\circ$ *Physics Viewpoint*: [Seeing Scrambled Spins](https://physics.aps.org/articles/v10/82)
 
-* [Entanglement Spectrum of Su-Schrieffer-Heeger-Hubbard Model](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165167))  
+* [Entanglement Spectrum of Su-Schrieffer-Heeger-Hubbard Model](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165167)  
 __B. Ye__, L.-Z. Mu, H. Fan  
 __*Phy. Rev. B*__ 94, 165167 (2016)
 
