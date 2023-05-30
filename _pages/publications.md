@@ -23,7 +23,7 @@ arxiv:2212.11284 (2023)
 
 * [_Coherent Dynamics of Strongly Interacting Electronic Spin Defects in Hexagonal Boron Nitride_]((https://arxiv.org/abs/2210.11485)  
 R. Gong, G. He, X. Gao, P. Ju, Z. Liu, __B. Ye__, E. A. Henriksen, T. Li, C. Zu  
-Nature Communication , (2023)  
+Nature Communications , (2023)  
 
 * [_Two-dimensional spin systems in PECVD-grown diamond with tunable density and long coherence for enhanced quantum sensing and simulation_](https://pubs.aip.org/aip/apm/article/11/2/021101/2870857)  
 L. B. Hughes, Z. Zhang, C. Jin, S. A. Meynell, __B. Ye__, W. Wu, Z. Wang, E. J. Davis, T. E. Mates, N. Y. Yao, K. Mukherjee, A. C. Bleszynski Jayich  
