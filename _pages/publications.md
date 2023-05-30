@@ -33,7 +33,7 @@ L. B. Hughes, Z. Zhang, C. Jin, S. A. Meynell, __B. Ye__, W. Wu, Z. Wang, E. J. 
 APL Materials 11, 021101 (2023)  
 
 * [_Floquet Phases of Matter via Classical Prethermalization_](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140603)  
-__B. Ye__\*,  F. Machado*, J. Kemp*, R. B. Hutson, N. Y. Yao  
+__B. Ye__\*,  F. Machado\*, J. Kemp\*, R. B. Hutson, N. Y. Yao  
 Phys. Rev. Lett. 129, 230602 (2022)  
 &emsp; $\circ$ Editors' Suggestion  
 
