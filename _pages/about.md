@@ -12,7 +12,7 @@ About Me
 -----
 I am a theoretical physicist working at the intersection of atomic physics and condensed matter physics. I am particularly interested in non-equilibrium dynamics, including driven systems and hydrodynamics. I received my Bachelor degree in physics at Peking University, and I am currently a Ph.D candidate at Harvard university. 
 
-Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=SUtUnpAAAAAJ&hl=en&oi=ao) profile.
+<!-- Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=SUtUnpAAAAAJ&hl=en&oi=ao) profile. -->
 
 Contact
 -----
