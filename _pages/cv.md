@@ -26,7 +26,7 @@ Awards
   
 Teaching
 -----
-2019 &emsp; Teaching assistant for Advanced AMO Physics at Unversity of California, Berkeley
+2019 &ensp;&thinsp; teaching assistant for Advanced AMO Physics at Unversity of California, Berkeley
   
   
 <!-- Talks
