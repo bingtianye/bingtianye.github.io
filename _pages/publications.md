@@ -11,12 +11,12 @@ author_profile: true
 
 * [_Measuring out-of-time-order correlators on a nuclear magnetic resonance quantum simulator_](https://physics.aps.org/articles/v10/82)  
 J. Li, R.-H. Fan, H.-Y. Wang, __B. Ye__, B. Zeng, H. Zhai, X.-H. Peng, J.-F. Du
-__Phy. Rev. X__ 7, 031011 (2017)  
+Phy. Rev. X 7, 031011 (2017)  
 &emsp $\circ$ Physics Viewpoint: [_Seeing Scrambled Spins_](https://physics.aps.org/articles/v10/82)
 
 * [_Entanglement Spectrum of Su-Schrieffer-Heeger-Hubbard Model_](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165167))  
 __B. Ye__, L.-Z. Mu, H. Fan  
-__Phy. Rev. B__ 94, 165167 (2016)
+Phy. Rev. B 94, 165167 (2016)
 
 {% include base_path %}
 
