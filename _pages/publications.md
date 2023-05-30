@@ -9,8 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-\*: Co-first author
-\dagger: Co-corresponding author
+\*: Co-first author  
+$\dagger$: Co-corresponding author
 
 * [_Scalable spin squeezing in a dipolar Rydberg atom array_](https://arxiv.org/abs/2303.08053)  
 G. Bornet\*, G. Emperauger\*, C. Chen\*, __B. Ye__\*, M. Block\*, M. Bintz, J. A. Boyd, D. Barredo, T. Comparin, F. Mezzacapo, T. Roscilde, T. Lahaye, N. Y. Yao, A. Browaeys  
@@ -21,7 +21,7 @@ M. Block\*, __B. Ye__\*, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. 
 arxiv:2301.09636 (2023)  
 
 * [_Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond_](https://arxiv.org/abs/2212.11284) 
-G. He\*, __B. Ye__\*\dagger, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu  
+G. He\*, __B. Ye__\*$\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu  
 arxiv:2212.11284 (2023)  
 
 * [_Coherent Dynamics of Strongly Interacting Electronic Spin Defects in Hexagonal Boron Nitride_](https://arxiv.org/abs/2210.11485)  
