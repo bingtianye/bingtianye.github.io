@@ -78,7 +78,7 @@ Sci. Rep. 7, 16668 (2017)
 
 * [Measuring out-of-time-order correlators on a nuclear magnetic resonance quantum simulator](https://physics.aps.org/articles/v10/82)  
 J. Li, R.-H. Fan, H.-Y. Wang, __B. Ye__, B. Zeng, H. Zhai, X.-H. Peng, J.-F. Du  
-*_Phy. Rev. X_* 7, 031011 (2017)  
+_*Phy. Rev. X*_ 7, 031011 (2017)  
 &emsp; $\circ$ _Physics Viewpoint_: [Seeing Scrambled Spins](https://physics.aps.org/articles/v10/82)
 
 * [_Measuring out-of-time-order correlators on a nuclear magnetic resonance quantum simulator_](https://physics.aps.org/articles/v10/82)  
