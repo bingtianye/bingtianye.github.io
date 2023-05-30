@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 * [_Entanglement Spectrum of Su-Schrieffer-Heeger-Hubbard Model_](http://connorlin.github.io)  
-__B. Ye__, L.-Z. Mu, H. Fan
+__B. Ye__, L.-Z. Mu, H. Fan  
+__Phy. Rev. B__ 94, 165167 (2016)
 
 {% include base_path %}
 
