@@ -43,7 +43,7 @@ __*Nature Physics*__ , (2023)
 &emsp; $\circ$ *Nature Physics Research Briefing*: [A local probe for many-body physics](https://www.nature.com/articles/s41567-023-02051-1)  
 
 * [Probing many-body noise in a strongly interacting two-dimensional dipolar spin system](https://www.nature.com/articles/s41567-023-01944-5)  
-E. J. Davis\*, __B. Ye__\*,  F. Machado*, S. A. Meynell, W. Wu, T. Mittiga, W. Schenken, M. Joos, B. Kobrin, Y. Lyu, Z. Wang, D. Bluvstein, S. Choi, C. Zu, A. C. Bleszynski Jayich, N. Y. Yao  
+E. J. Davis\*, __B. Ye__\*,  F. Machado\*, S. A. Meynell, W. Wu, T. Mittiga, W. Schenken, M. Joos, B. Kobrin, Y. Lyu, Z. Wang, D. Bluvstein, S. Choi, C. Zu, A. C. Bleszynski Jayich, N. Y. Yao  
 __*Nature Physics*__ , (2023)  
 &emsp; $\circ$ *Nature Physics Research Briefing*: [Spin-Interaction Studies Take on a New Dimension](https://www.nature.com/articles/s41567-023-01947-2) 
 
