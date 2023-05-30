@@ -46,13 +46,12 @@ __*Nature Physics*__ , (2023)
 E. J. Davis\*, __B. Ye__\*,  F. Machado\*, S. A. Meynell, W. Wu, T. Mittiga, W. Schenken, M. Joos, B. Kobrin, Y. Lyu, Z. Wang, D. Bluvstein, S. Choi, C. Zu, A. C. Bleszynski Jayich, N. Y. Yao  
 __*Nature Physics*__ , (2023)  
 &emsp; $\circ$ *Nature Physics Research Briefing*: [Spin-Interaction Studies Take on a New Dimension](https://www.nature.com/articles/s41567-023-01947-2) 
+&emsp; $\circ$ *Physics Viewpoint*: [Spin-Interaction Studies Take on a New Dimension](https://physics.aps.org/articles/v16/1)
 
 * [Quantum gas microscopy of Kardar-Parisi-Zhang superdiffusion](https://www.science.org/doi/10.1126/science.abk2397)  
 D. Wei, A. Rubio-Abadal, __B. Ye__, F. Machado, J. Kemp, K. Srakaew, S. Hollerith, J. Rui, S. Gopalakrishnan, N. Y. Yao, I. Bloch, J. Zeiher  
 __*Science*__ 376, 716 (2022)  
 &emsp; $\circ$ *Science Perspective*: [Anomalous fluid flow in quantum systems](https://www.science.org/doi/10.1126/science.abn6376)  
-
-&emsp; $\circ$ *Physics Viewpoint*: [Spin-Interaction Studies Take on a New Dimension](https://physics.aps.org/articles/v16/1)
 
 * [Floquet Phases of Matter via Classical Prethermalization](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.140603)  
 __B. Ye__,  F. Machado, N. Y. Yao  
