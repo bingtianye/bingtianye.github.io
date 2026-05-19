@@ -11,6 +11,7 @@ author_profile: true
 
 <small>\*: Co-first author</small>  
 <small>$^\dagger$: Co-corresponding author</small>
+完整发表列表见我的 [Google Scholar](https://scholar.google.com/citations?user=PYhrjBUAAAAJ&hl=en)
 
 * [Scalable spin squeezing in a dipolar Rydberg atom array](https://arxiv.org/abs/2303.08053)  
 G. Bornet\*, G. Emperauger\*, C. Chen\*, __B. Ye__\*, M. Block\*, M. Bintz, J. A. Boyd, D. Barredo, T. Comparin, F. Mezzacapo, T. Roscilde, T. Lahaye, N. Y. Yao, A. Browaeys  
