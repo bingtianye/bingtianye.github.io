@@ -14,15 +14,15 @@ author_profile: true
 除了传统的参数估计，我也关注更广义的量子测量任务，例如信号搜索、模式识别，以及对时间依赖或空间结构化信号的整体性质进行估计。针对这些更复杂的任务，将量子传感与量子计算相结合可能提供新的量子优势。
 
 **相关成果：**
--  Robust multiparameter estimation using quantum scrambling  
+-  **Robust multiparameter estimation using quantum scrambling**  
   arXiv:2601.23283 (2026)
--  Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond  
+-  **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**  
   *Nature* 646, 74 (2025)
--  Probing stress and magnetism at high pressures with two-dimensional quantum sensors  
+-  **Probing stress and magnetism at high pressures with two-dimensional quantum sensors**  
   *Nature Communications* 16, 8162 (2025)
--  Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism  
+-  **Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism**  
   *Nature Physics* 20, 1575 (2024)
--  Scalable spin squeezing in a dipolar Rydberg atom array  
+-  **Scalable spin squeezing in a dipolar Rydberg atom array**  
   *Nature* 621, 728 (2023)
 
 ## 原子分子平台中的量子信息、量子计算和量子控制
