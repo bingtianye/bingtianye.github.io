@@ -19,7 +19,7 @@ redirect_from:
 
 奖励与荣誉
 -----
-2015 - present &ensp; 唐立新奖学金<br>  
+2015  &ensp; 唐立新奖学金<br>  
 2017 &emsp;&emsp;&emsp;&emsp;&ensp;&thinsp; 北京市优秀毕业生<br>  
 2014 - 2017 &emsp;&ensp;&thinsp; 北京大学物理学院未名奖学金（三次）<br>  
 2014 - 2017 &emsp;&ensp;&thinsp; 北京大学物理学院三好学生（三次）<br>  
