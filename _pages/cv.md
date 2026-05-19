@@ -11,7 +11,7 @@ redirect_from:
 
 教育与工作经历
 -----
-2026.6 - &emsp;&emsp;&ensp; 助理教授，研究员，北京大学物理学院光学所   
+2026 - &emsp;&emsp;&ensp; 助理教授，研究员，北京大学物理学院光学所   
 2024 - 2026 &ensp; 博士后研究员，麻省理工学院理论物理中心  
 2022 - 2024 &ensp; 物理学博士，哈佛大学物理系  
 2017 - 2022 &ensp; 物理学博士生，加利福尼亚大学伯克利分校物理系  
@@ -19,7 +19,7 @@ redirect_from:
 
 奖励与荣誉
 -----
-2015  &ensp; 唐立新奖学金  
+2015  &emsp;&emsp;&emsp;&emsp;&ensp;&thinsp; 唐立新奖学金  
 2017 &emsp;&emsp;&emsp;&emsp;&ensp;&thinsp; 北京市优秀毕业生  
 2014 - 2017 &emsp;&ensp;&thinsp; 北京大学物理学院未名奖学金（三次）  
 2014 - 2017 &emsp;&ensp;&thinsp; 北京大学物理学院三好学生（三次）   
