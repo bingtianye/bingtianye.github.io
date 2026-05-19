@@ -59,9 +59,11 @@ author_profile: true
 **代表性成果：** 在受驱动量子系统方向，我研究周期驱动、多频驱动和准周期驱动系统中的预热化、哈密顿量工程与非平衡相。相关工作表明，即使在远离平衡的受驱动系统中，系统也可以在很长时间尺度上进入稳定的预热化平台，从而为 Floquet 相、准 Floquet 动力学和量子控制提供物理基础。
 
 - **Experimental realization of discrete time quasicrystals**  
-  *Physical Review X* 15, 011055 (2025).
-- **Quasi-floquet prethermalization in a disordered dipolar spin ensemble in diamond**, *Physical Review Letters* **131**, 130401 (2023).
-- **Floquet phases of matter via classical prethermalization**, *Physical Review Letters* **127**, 140603 (2021).
+  *Physical Review X* 15, 011055 (2025)
+- **Quasi-floquet prethermalization in a disordered dipolar spin ensemble in diamond**  
+  *Physical Review Letters* 131, 130401 (2023)
+- **Floquet phases of matter via classical prethermalization**
+  *Physical Review Letters* 127, 140603 (2021)
 
 ## 涌现流体力学与动力学普适性
 
