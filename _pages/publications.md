@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 <small>\*: Co-first author</small>  
-<small>$^\dagger$: Co-corresponding author</small>
+<small>$^\dagger$: Co-corresponding author</small>  
 完整发表列表见我的 [Google Scholar](https://scholar.google.com/citations?user=PYhrjBUAAAAJ&hl=en)
 
 * [Scalable spin squeezing in a dipolar Rydberg atom array](https://arxiv.org/abs/2303.08053)  
