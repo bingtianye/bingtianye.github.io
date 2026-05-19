@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bingtian Ye"
+  name             : "叶柄天"
   avatar           : "profile.jpg"
-  bio              : "Ph.D Candidate in Physics at Harvard"
+  bio              : "北京大学物理学院光学所，助理教授，研究员"
   location         : # "Location"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SUtUnpAAAAAJ&hl=en&oi=ao"
-  email            : "bingtian_ye@fas.harvard.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=PYhrjBUAAAAJ"
+  email            : "bingtianye@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
