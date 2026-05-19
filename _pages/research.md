@@ -76,15 +76,15 @@ author_profile: true
 **代表性成果：** 在涌现流体力学方向，我研究量子多体系统如何在长时间、大尺度下表现出有效经典的输运行为，以及哪些普适类能够描述这种动力学。相关工作从理论和实验两个层面研究了非平衡量子系统中的扩散、反常输运和 KPZ 普适性，并展示了可控量子平台如何直接观测这些长时间动力学规律。
 
 - **Exploiting disorder to probe spin and energy hydrodynamics**  
-  *Nature Physics* 19, 1027 (2023).
+  *Nature Physics* 19, 1027 (2023)
 - **Universal Kardar-Parisi-Zhang dynamics in integrable quantum systems**  
-  *Physical Review Letters* 129, 230602 (2022).
+  *Physical Review Letters* 129, 230602 (2022)
 - **Quantum gas microscopy of Kardar-Parisi-Zhang superdiffusion**  
-  *Science* 376, 716 (2022).
+  *Science* 376, 716 (2022)
 - **Emergent hydrodynamics in a strongly interacting dipolar spin ensemble**  
-  *Nature* 597, 45 (2021).
+  *Nature* 597, 45 (2021)
 - **Emergent hydrodynamics in nonequilibrium quantum systems**  
-  *Physical Review Letters* 125, 030601 (2020).
+  *Physical Review Letters* 125, 030601 (2020)
 
 ## 长时间量子动力学的理论与数值方法
 
