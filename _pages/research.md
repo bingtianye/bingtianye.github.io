@@ -15,8 +15,9 @@ author_profile: true
 
 **代表性成果：** 在可控量子平台方向，我与实验合作研究了 Rydberg 原子阵列、金刚石中的氮空位中心、二维偶极自旋体系以及范德瓦尔斯材料中的自旋缺陷等平台。这些系统为研究多体动力学、量子模拟、量子传感和量子控制提供了互补的实验环境。
 
-- **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**, *Nature* **646**, 74–80 (2025).
 - **Probing stress and magnetism at high pressures with two-dimensional quantum sensors**, *Nature Communications* **16**, 8162 (2025).
+- **Probing many-body dynamics in a two-dimensional dipolar spin ensemble**
+  *Nature Physics* 19, 836 (2023)
 - **Isotope engineering for spin defects in van der Waals materials**, *Nature Communications* **15**, 104 (2024).
 - **Coherent dynamics of strongly interacting electronic spin defects in hexagonal boron nitride**, *Nature Communications* **14**, 3299 (2023).
 
@@ -44,9 +45,15 @@ author_profile: true
 
 **代表性成果：** 在量子增强精密测量方向，我研究如何利用多体相互作用制备可扩展的计量学纠缠态。相关工作包括在 Rydberg 原子阵列中实现可扩展的自旋压缩，以及从有限温度 easy-plane 磁性出发理解自旋压缩的产生机制。这些工作将量子计量学与多体磁性、非平衡动力学和可编程量子模拟联系起来。
 
-- **Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism**, *Nature Physics* **20**, 1575–1581 (2024).
-- **Scalable spin squeezing in a dipolar Rydberg atom array**, *Nature* **621**, 728–733 (2023).
-- **Probing many-body dynamics in a two-dimensional dipolar spin ensemble**, *Nature Physics* **19**, 836–844 (2023).
+-  **Robust multiparameter estimation using quantum scrambling**
+  arXiv:2601.23283 (2026)
+-  **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**
+  *Nature* 646, 74 (2025)
+-  **Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism**
+  *Nature Physics* 20, 1575 (2024)
+- **Scalable spin squeezing in a dipolar Rydberg atom array**
+  *Nature* 621, 728 (2023)
+
 
 ## 受驱动量子系统与 Floquet 预热化
 
@@ -62,7 +69,7 @@ author_profile: true
   *Physical Review X* 15, 011055 (2025)
 - **Quasi-floquet prethermalization in a disordered dipolar spin ensemble in diamond**  
   *Physical Review Letters* 131, 130401 (2023)
-- **Floquet phases of matter via classical prethermalization**
+- **Floquet phases of matter via classical prethermalization**  
   *Physical Review Letters* 127, 140603 (2021)
 
 ## 涌现流体力学与动力学普适性
