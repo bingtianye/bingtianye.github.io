@@ -7,34 +7,6 @@ author_profile: true
 
 我的研究位于原子分子光物理、量子信息科学与凝聚态物理的交叉领域。我主要关注可控量子多体系统中的动力学现象，以及这些动力学如何服务于量子计算、量子传感和量子模拟等量子技术。我的研究一方面试图理解远离平衡态的量子系统如何在长时间、大尺度下表现出普适的集体行为；另一方面也致力于发展新的量子控制协议和理论工具，用于设计高保真度量子门、增强量子测量能力，并探索新型非平衡量子相。
 
-## 原子分子光物理与可控量子平台
-
-现代原子分子光物理系统为研究量子多体物理和量子信息科学提供了高度可控的平台。这些系统包括超冷原子、Rydberg 原子阵列、固态自旋缺陷、核磁共振系统以及混合量子系统等。它们具有良好的可调控性、可扩展性和高精度测量能力，使我们能够从微观层面设计哈密顿量、操控量子态，并直接观测复杂量子动力学。
-
-我的研究关注如何利用这些 AMO 平台进行量子模拟和量子控制。一方面，我希望通过与实验紧密结合，建立面向具体平台的理论模型，理解相互作用、无序、耗散和测量如何共同影响量子动力学。另一方面，我也希望利用这些平台发展面向量子技术的控制方案，例如制备有用的纠缠态、实现可编程量子模拟，以及设计更高效的量子信息处理协议。
-
-**相关成果：** 在可控量子平台方向，我与实验合作研究了 Rydberg 原子阵列、金刚石中的氮空位中心、二维偶极自旋体系以及范德瓦尔斯材料中的自旋缺陷等平台。这些系统为研究多体动力学、量子模拟、量子传感和量子控制提供了互补的实验环境。
-
-- **Probing many-body dynamics in a two-dimensional dipolar spin ensemble**
-  *Nature Physics* 19, 836 (2023)
-- **Isotope engineering for spin defects in van der Waals materials**, *Nature Communications* **15**, 104 (2024).
-- **Coherent dynamics of strongly interacting electronic spin defects in hexagonal boron nitride**, *Nature Communications* **14**, 3299 (2023).
-
-## 量子信息、量子计算与量子控制
-
-量子信息和量子计算是我研究中的重要方向。我关注如何将量子多体物理、AMO 系统中的精密操控能力以及现代量子控制理论结合起来，设计更快、更鲁棒、更高保真度的量子操作。
-
-一个具体方向是高保真度量子门的设计，尤其是在 Rydberg 原子阵列等具有强相互作用和高可编程性的系统中。通过利用受驱动动力学、量子信号处理和哈密顿量工程等思想，可以设计超越传统控制方案的纠缠门和多比特操作，从而提高量子计算平台的性能。
-
-更广义地，我也关注量子信息在多体动力学中的传播、编码和读取。例如，信息如何在混沌量子系统中扩散，算符如何传播，量子纠缠如何生成和重组，以及这些过程如何反过来启发量子计算、量子模拟和量子设备表征的新方法。
-
-**相关成果：** 在量子信息与量子控制方向，我研究如何利用量子多体动力学实现信息编码、纠缠生成、量子线路采样和可编程控制。这一方向把量子信息理论、量子混沌和 AMO 平台中的可控动力学联系起来，为量子计算和量子模拟提供新的理论工具。
-
-- **How much can we learn from quantum random circuit sampling?**
-  arXiv:2510.09919 (2025)
-- **Exploiting disorder to probe spin and energy hydrodynamics**  
-  *Nature Physics* 19, 1027 (2023)
-
 ## 量子传感与量子增强精密测量
 
 我也对量子传感和量子增强精密测量感兴趣。量子传感的核心问题是如何利用量子资源，例如纠缠、压缩态、量子混沌和非平衡动力学，来提升对外部信号或环境信息的探测能力。
@@ -49,13 +21,37 @@ author_profile: true
   arXiv:2601.23283 (2026)
 -  **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**  
   *Nature* 646, 74 (2025)
-- **Probing stress and magnetism at high pressures with two-dimensional quantum sensors**
+- **Probing stress and magnetism at high pressures with two-dimensional quantum sensors**  
   *Nature Communications* 16, 8162 (2025)
 -  **Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism**  
   *Nature Physics* 20, 1575 (2024)
 - **Scalable spin squeezing in a dipolar Rydberg atom array**  
   *Nature* 621, 728 (2023)
 
+## 原子分子平台中的量子信息、量子计算和量子控制
+
+现代原子分子光物理系统为研究量子多体物理和量子信息科学提供了高度可控的平台。这些系统包括超冷原子、Rydberg 原子阵列、固态自旋缺陷、核磁共振系统以及混合量子系统等。它们具有良好的可调控性、可扩展性和高精度测量能力，使我们能够从微观层面设计哈密顿量、操控量子态，并直接观测复杂量子动力学。
+
+量子信息和量子计算是我研究中的重要方向。我关注如何将量子多体物理、AMO 系统中的精密操控能力以及现代量子控制理论结合起来，设计更快、更鲁棒、更高保真度的量子操作。
+
+一个具体方向是高保真度量子门的设计，尤其是在 Rydberg 原子阵列等具有强相互作用和高可编程性的系统中。通过利用受驱动动力学、量子信号处理和哈密顿量工程等思想，可以设计超越传统控制方案的纠缠门和多比特操作，从而提高量子计算平台的性能。
+
+更广义地，我也关注量子信息在多体动力学中的传播、编码和读取。例如，信息如何在混沌量子系统中扩散，算符如何传播，量子纠缠如何生成和重组，以及这些过程如何反过来启发量子计算、量子模拟和量子设备表征的新方法。
+
+**相关成果：** 在量子信息与量子控制方向，我研究如何利用量子多体动力学实现信息编码、纠缠生成、量子线路采样和可编程控制。这一方向把量子信息理论、量子混沌和 AMO 平台中的可控动力学联系起来，为量子计算和量子模拟提供新的理论工具。
+
+我的研究关注如何利用这些 AMO 平台进行量子模拟和量子控制。一方面，我希望通过与实验紧密结合，建立面向具体平台的理论模型，理解相互作用、无序、耗散和测量如何共同影响量子动力学。另一方面，我也希望利用这些平台发展面向量子技术的控制方案，例如制备有用的纠缠态、实现可编程量子模拟，以及设计更高效的量子信息处理协议。
+
+**相关成果：** 在可控量子平台方向，我与实验合作研究了 Rydberg 原子阵列、金刚石中的氮空位中心、二维偶极自旋体系以及范德瓦尔斯材料中的自旋缺陷等平台。这些系统为研究多体动力学、量子模拟、量子传感和量子控制提供了互补的实验环境。
+
+- **How much can we learn from quantum random circuit sampling?**
+  arXiv:2510.09919 (2025)
+- **Isotope engineering for spin defects in van der Waals materials**
+  *Nature Communications* 15, 104 (2024)
+- **Exploiting disorder to probe spin and energy hydrodynamics**  
+  *Nature Physics* 19, 1027 (2023)
+- **Coherent dynamics of strongly interacting electronic spin defects in hexagonal boron nitride**
+  *Nature Communications* 14, 3299 (2023)
 
 ## 受驱动量子系统与 Floquet 预热化
 
@@ -74,7 +70,7 @@ author_profile: true
 - **Floquet phases of matter via classical prethermalization**  
   *Physical Review Letters* 127, 140603 (2021)
 
-## 涌现流体力学与动力学普适性
+## 长时间量子动力学中涌现的流体力学与普适性
 
 量子多体系统虽然在微观层面遵循复杂的量子力学规律，但在长时间、大尺度下往往会表现出简单的集体行为。涌现流体力学正是这一思想的体现：许多局域观测量在粗粒化之后可以由少数连续变量和有效动力学方程描述。
 
@@ -84,18 +80,6 @@ author_profile: true
 
 **相关成果：** 在涌现流体力学方向，我研究量子多体系统如何在长时间、大尺度下表现出有效经典的输运行为，以及哪些普适类能够描述这种动力学。相关工作从理论和实验两个层面研究了非平衡量子系统中的扩散、反常输运和 KPZ 普适性，并展示了可控量子平台如何直接观测这些长时间动力学规律。
 
-- **Universal Kardar-Parisi-Zhang dynamics in integrable quantum systems**  
-  *Physical Review Letters* 129, 230602 (2022)
-- **Quantum gas microscopy of Kardar-Parisi-Zhang superdiffusion**  
-  *Science* 376, 716 (2022)
-- **Emergent ergodicity at the transition between many-body localized phases**
-  *Physical Review Letters* 126, 100604 (2021)
-- **Emergent hydrodynamics in a strongly interacting dipolar spin ensemble**  
-  *Nature* 597, 45 (2021)
-- **Emergent hydrodynamics in nonequilibrium quantum systems**  
-  *Physical Review Letters* 125, 030601 (2020)
-
-## 长时间量子动力学的理论与数值方法
 
 精确模拟大规模量子系统的长时间动力学通常具有指数复杂度，因此发展合适的近似方法是理解非平衡量子多体物理的关键。
 
@@ -106,3 +90,16 @@ author_profile: true
 **相关成果：** 在数值方法方面，我发展和应用适合长时间动力学的近似工具，特别是面向流体力学和输运问题的密度矩阵截断方法。这类方法的目标不是完整保留多体波函数的全部纠缠结构，而是更有效地保留与局域观测量、关联函数和长时间输运相关的信息，从而突破传统精确模拟在系统尺寸和演化时间上的限制。
 
 这一方向的代表性结果已体现在上面的涌现流体力学与动力学普适性研究中，尤其是非平衡量子系统中长时间输运和 KPZ 普适性的理论工作。
+
+- **Probing many-body dynamics in a two-dimensional dipolar spin ensemble**
+  *Nature Physics* 19, 836 (2023)
+- **Universal Kardar-Parisi-Zhang dynamics in integrable quantum systems**  
+  *Physical Review Letters* 129, 230602 (2022)
+- **Quantum gas microscopy of Kardar-Parisi-Zhang superdiffusion**  
+  *Science* 376, 716 (2022)
+- **Emergent ergodicity at the transition between many-body localized phases**
+  *Physical Review Letters* 126, 100604 (2021)
+- **Emergent hydrodynamics in a strongly interacting dipolar spin ensemble**  
+  *Nature* 597, 45 (2021)
+- **Emergent hydrodynamics in nonequilibrium quantum systems**  
+  *Physical Review Letters* 125, 030601 (2020)
