@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,6 +12,11 @@ author_profile: true
 <small>\*: Co-first author</small>  
 <small>$^\dagger$: Co-corresponding author</small>  
 完整发表列表见我的 [Google Scholar](https://scholar.google.com/citations?user=PYhrjBUAAAAJ&hl=en)
+
+* [Scalable spin squeezing in a dipolar Rydberg atom array](https://arxiv.org/abs/2303.08053)  
+W. Wu\*, E. J. Davis\*, L. B. Hughes, __B. Ye__, Z. Wang, D. Kufel, T. Ono, S. A. Meynell, M. Block, C. Liu, H. Yang, A. C. Bleszynski Jayich, Norman Y. Yao
+__*Nature*__ 646, 74 (2025)  
+&emsp; $\circ$ *Nature News&Views*: [Quantum correlations enhance the sensitivity of room-temperature sensors]([https://www.nature.com/articles/s41567-024-02563-4](https://www.nature.com/articles/d41586-025-02968-y))
 
 * [Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond](https://arxiv.org/abs/2212.11284) 
 G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu$^\dagger$  
@@ -43,7 +48,7 @@ __*Phys. Rev. Lett.*__ 129, 230602 (2022)
 
 * [Exploiting disorder to probe spin and energy hydrodynamics](https://www.nature.com/articles/s41567-023-02024-4)  
 P. Peng\*, __B. Ye__\*, N. Y. Yao, P. Cappellaro  
-__*Nature Physics*__ , 19, 1027 (2023) 
+__*Nature Physics*__ , 19, 1027 (2023)  
 &emsp; $\circ$ *Nature Physics Research Briefing*: [A local probe for many-body physics](https://www.nature.com/articles/s41567-023-02051-1)  
 
 * [Probing many-body noise in a strongly interacting two-dimensional dipolar spin system](https://www.nature.com/articles/s41567-023-01944-5)  
