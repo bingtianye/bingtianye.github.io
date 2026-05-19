@@ -10,10 +10,10 @@ redirect_from:
 
 About Me
 -----
-I am a theoretical physicist working at the intersection of atomic physics and condensed matter physics. I am particularly interested in non-equilibrium dynamics, including driven systems and hydrodynamics. I received my Bachelor degree in physics at Peking University, and I am currently a Ph.D candidate at Harvard university. 
+我的研究方向位于量子计算与信息科学，原子分子光物理与凝聚态物理的交叉领域。我的研究关注量子计算、量子信息处理和量子增强精密测量，包括如何设计高保真度的量子门与量子控制协议，如何利用多体纠缠、量子混沌和非平衡动力学提升量子传感能力，以及如何在可控 AMO 平台中实现面向量子技术的高效操控。与此同时，我也研究非平衡量子多体动力学，特别是长时间、大尺度下涌现出的流体力学、动力学普适性、信息传播、受驱动量子系统以及新的非平衡量子相。我本科毕业于北京大学物理学院，随后在哈佛大学获得物理学博士学位。博士毕业后，我在麻省理工学院理论物理中心（MIT Center for Theoretical Physics, CTP）从事了两年博士后研究。2026 年夏天，我将加入北京大学物理学院光学所，担任助理教授。
 
 
 Contact
 -----
-Email: bingtian_ye@fas.harvard.edu  
-Office: Jefferson 366, 17 Oxford St., Cambridge, MA, 02138
+邮箱: bingtian_ye@fas.harvard.edu  
+地址: Jefferson 366, 17 Oxford St., Cambridge, MA, 02138
