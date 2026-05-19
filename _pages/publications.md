@@ -17,14 +17,16 @@ author_profile: true
 G. Bornet\*, G. Emperauger\*, C. Chen\*, __B. Ye__\*, M. Block\*, M. Bintz, J. A. Boyd, D. Barredo, T. Comparin, F. Mezzacapo, T. Roscilde, T. Lahaye, N. Y. Yao, A. Browaeys  
 arxiv: 2303.08053 (2023)
 
-* [A Universal Theory of Spin Squeezing](https://arxiv.org/abs/2301.09636)  
-M. Block\*, __B. Ye__\*, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. Davis, B. I. Halperin, N. Y. Yao  
-arxiv: 2301.09636 (2023)  
-
 * [Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond](https://arxiv.org/abs/2212.11284) 
 G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu$^\dagger$  
 __*Phy. Rev. X*__ 15, 011055 (2025)
 &emsp; $\circ$ *Physics Synopsis*: [A New Type of Time Crystal](https://physics.aps.org/articles/v18/s28)
+
+* [A Universal Theory of Spin Squeezing](https://arxiv.org/abs/2301.09636)  
+M. Block\*, __B. Ye__\*, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. Davis, B. I. Halperin, N. Y. Yao  
+__*Nature Physics*__ 20, 1575 (2024)
+&emsp; $\circ$ *Nature Physics Research Briefing*: [Scalable spin squeezing with local interactions](https://www.nature.com/articles/s41567-024-02563-4) 
+&emsp; $\circ$ *Harvard Gazette*: [Physicists ease path to entanglement for quantum sensing](https://news.harvard.edu/gazette/story/2024/08/physicists-ease-path-to-entanglement-for-quantum-sensing/)
 
 * [Coherent Dynamics of Strongly Interacting Electronic Spin Defects in Hexagonal Boron Nitride](https://arxiv.org/abs/2210.11485)  
 R. Gong, G. He, X. Gao, P. Ju, Z. Liu, __B. Ye__, E. A. Henriksen, T. Li, C. Zu  
