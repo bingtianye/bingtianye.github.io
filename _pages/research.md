@@ -14,7 +14,7 @@ author_profile: true
 除了传统的参数估计，我也关注更广义的量子测量任务，例如信号搜索、模式识别，以及对时间依赖或空间结构化信号的整体性质进行估计。针对这些更复杂的任务，将量子传感与量子计算相结合可能提供新的量子优势。
 
 **相关成果：**
--  **Robust multiparameter estimation using quantum scrambling**  
+-  Robust multiparameter estimation using quantum scrambling  
   arXiv:2601.23283 (2026)
 -  **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**  
   *Nature* 646, 74 (2025)
