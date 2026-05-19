@@ -23,7 +23,8 @@ arxiv: 2301.09636 (2023)
 
 * [Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond](https://arxiv.org/abs/2212.11284) 
 G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu$^\dagger$  
-arxiv: 2212.11284 (2023)  
+__*Phy. Rev. X*__ 15, 011055 (2025)
+&emsp; $\circ$ *Physics Synopsis*: [A New Type of Time Crystal](https://physics.aps.org/articles/v18/s28)
 
 * [Coherent Dynamics of Strongly Interacting Electronic Spin Defects in Hexagonal Boron Nitride](https://arxiv.org/abs/2210.11485)  
 R. Gong, G. He, X. Gao, P. Ju, Z. Liu, __B. Ye__, E. A. Henriksen, T. Li, C. Zu  
