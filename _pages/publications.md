@@ -9,8 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<small>\*: Co-first author</small>  
-<small>$^\dagger$: Co-corresponding author</small>  
+<small>\*: Equal contribution</small>  
+<small>$^\dagger$: Corresponding author</small>  
 完整发表列表见我的 [Google Scholar](https://scholar.google.com/citations?user=PYhrjBUAAAAJ&hl=en)
 
 * [Spin squeezing in an ensemble of nitrogen–vacancy centres in diamond](https://www.nature.com/articles/d41586-025-02968-y)  
