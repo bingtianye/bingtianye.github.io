@@ -18,7 +18,7 @@ W. Wu, E. J. Davis, L. B. Hughes, __B. Ye__, Z. Wang, D. Kufel, T. Ono, S. A. Me
 __*Nature*__ 646, 74 (2025)  
 &emsp; $\circ$ *Nature News&Views*: [Quantum correlations enhance the sensitivity of room-temperature sensors](https://www.nature.com/articles/d41586-025-02968-y)
 
-* [Experimental Realization of Discrete Time Quasi-Crystals](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011055) 
+* [Experimental Realization of Discrete Time Quasi-Crystals](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011055)  
 G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu$^\dagger$  
 __*Phy. Rev. X*__ 15, 011055 (2025)  
 &emsp; $\circ$ *Physics Synopsis*: [A New Type of Time Crystal](https://physics.aps.org/articles/v18/s28)
@@ -33,7 +33,7 @@ __*Nature Physics*__ 20, 1575 (2024)
 G. Bornet\*, G. Emperauger\*, C. Chen\*, __B. Ye__\*, M. Block\*, M. Bintz, J. A. Boyd, D. Barredo, T. Comparin, F. Mezzacapo, T. Roscilde, T. Lahaye, N. Y. Yao, A. Browaeys  
 __*Nature*__ 621, 728 (2023)  
 
-* [Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.130401) 
+* [Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.130401)  
 G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu$^\dagger$  
 __*Phys. Rev. Lett.*__ 131, 130401 (2023)   
 &emsp; $\circ$ *Phys.org*: [Researchers advance effort to turn diamonds into a quantum simulator](https://phys.org/news/2023-10-advance-effort-diamonds-quantum-simulator.html)
