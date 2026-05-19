@@ -13,11 +13,6 @@ author_profile: true
 <small>$^\dagger$: Corresponding author</small>  
 完整发表列表见我的 [Google Scholar](https://scholar.google.com/citations?user=PYhrjBUAAAAJ&hl=en)
 
-* [Spin squeezing in an ensemble of nitrogen–vacancy centres in diamond](https://www.nature.com/articles/d41586-025-02968-y)  
-W. Wu, E. J. Davis, L. B. Hughes, __B. Ye__, Z. Wang, D. Kufel, T. Ono, S. A. Meynell, M. Block, C. Liu, H. Yang, A. C. Bleszynski Jayich, Norman Y.  Yao  
-__*Nature*__ 646, 74 (2025)  
-&emsp; $\circ$ *Nature News&Views*: [Quantum correlations enhance the sensitivity of room-temperature sensors](https://www.nature.com/articles/d41586-025-02968-y)
-
 * [Experimental Realization of Discrete Time Quasi-Crystals](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011055)  
 G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu$^\dagger$  
 __*Phy. Rev. X*__ 15, 011055 (2025)  
