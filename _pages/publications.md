@@ -19,7 +19,7 @@ arxiv: 2303.08053 (2023)
 
 * [Quasi-Floquet prethermalization in a disordered dipolar spin ensemble in diamond](https://arxiv.org/abs/2212.11284) 
 G. He\*, __B. Ye__\*$^\dagger$, R. Gong, Z. Liu, K. W. Murch, N. Y. Yao, C. Zu$^\dagger$  
-__*Phy. Rev. X*__ 15, 011055 (2025)
+__*Phy. Rev. X*__ 15, 011055 (2025) 
 &emsp; $\circ$ *Physics Synopsis*: [A New Type of Time Crystal](https://physics.aps.org/articles/v18/s28)
 
 * [A Universal Theory of Spin Squeezing](https://arxiv.org/abs/2301.09636)  
@@ -43,7 +43,7 @@ __*Phys. Rev. Lett.*__ 129, 230602 (2022)
 
 * [Exploiting disorder to probe spin and energy hydrodynamics](https://www.nature.com/articles/s41567-023-02024-4)  
 P. Peng\*, __B. Ye__\*, N. Y. Yao, P. Cappellaro  
-__*Nature Physics*__ , (2023)  
+__*Nature Physics*__ , 19, 1027 (2023) 
 &emsp; $\circ$ *Nature Physics Research Briefing*: [A local probe for many-body physics](https://www.nature.com/articles/s41567-023-02051-1)  
 
 * [Probing many-body noise in a strongly interacting two-dimensional dipolar spin system](https://www.nature.com/articles/s41567-023-01944-5)  
