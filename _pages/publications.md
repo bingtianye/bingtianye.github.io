@@ -70,10 +70,6 @@ C. Zu\*, F. Machado\*, __B. Ye__\*,  S. Choi, B. Kobrin, T. Mittiga, S. Hsieh, P
 __*Nature*__ 597, 45 (2021)  
 &emsp; $\circ$ *Physics World*: [Evolution of quantum spins looks surprisingly classical](https://physicsworld.com/a/evolution-of-quantum-spins-looks-surprisingly-classical/)
 
-* [Emergent ergodicity at the transition between many-body localized phases](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.100604)   
-R. Sahay\*, F. Machado\*, __B. Ye__\*,  C. R. Laumann, N. Y. Yao  
-__*Phys. Rev. Lett.*__ 126, 100604 (2021)
-
 * [Emergent hydrodynamics in nonequilibrium quantum systems](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.030601)  
 __B. Ye__\*, F. Machado\*, C. D. White, R. S. K. Mong, N. Y. Yao  
 __*Phys. Rev. Lett.*__ 125, 030601 (2020)
