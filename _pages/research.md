@@ -30,28 +30,25 @@ author_profile: true
 现代原子分子光物理系统为研究量子多体物理和量子信息科学提供了高度可控的平台。这些系统包括超冷原子、Rydberg 原子阵列、固态自旋缺陷、光量子系统系统等。它们具有良好的可调控性、可扩展性和高精度测量能力，使我们能够从微观层面设计哈密顿量、操控量子态，并直接观测复杂量子动力学。
 我关注如何将量子多体物理、AMO 系统中的精密操控能力以及现代量子信息理论结合起来，基于受驱动动力学、量子信号处理和哈密顿量工程等设计更快、更灵活、更高保真度的量子操作。
 一个具体方向是高保真度量子门的设计，尤其是在 Rydberg 原子阵列等具有强相互作用和高可编程性的系统中。
-更广义地，我也关注量子信息的动力学过程，以及这些过程如何反过来启发量子设备表征的新方法。
+此外，我也关注量子多体动力学和量子信息的动力学过程如何启发量子设备表征的新方法。
 
 **相关成果：** 
-- **How much can we learn from quantum random circuit sampling?**
+- **How much can we learn from quantum random circuit sampling?**  
   arXiv:2510.09919 (2025)
-- **Isotope engineering for spin defects in van der Waals materials**
+- **Isotope engineering for spin defects in van der Waals materials**  
   *Nature Communications* 15, 104 (2024)
 - **Exploiting disorder to probe spin and energy hydrodynamics**  
   *Nature Physics* 19, 1027 (2023)
-- **Coherent dynamics of strongly interacting electronic spin defects in hexagonal boron nitride**
+- **Coherent dynamics of strongly interacting electronic spin defects in hexagonal boron nitride**  
   *Nature Communications* 14, 3299 (2023)
 
 ## 受驱动量子系统与 Floquet 预热化
 
 受驱动量子系统是研究非平衡物理和实现量子控制的重要途径。周期驱动系统中的 Floquet 理论已经为哈密顿量工程、非平衡相和量子控制提供了强有力的框架，但许多现代 AMO 平台具有远超周期驱动的控制能力。
-
-我的研究关注如何将传统 Floquet 工程推广到更一般的驱动协议，包括多频驱动、准周期驱动和非周期控制序列。这些更灵活的控制方式有望用于产生新的非平衡量子相、实现更高效的哈密顿量工程，并设计性能更优的量子门。
-
+我的研究关注如何将传统 Floquet 工程推广到更一般的驱动协议，包括多频驱动、准周期驱动和非周期控制序列。这些更灵活的控制方式有望用于产生新的非平衡量子相、实现更高效的哈密顿量工程。
 我也对开放系统中的受驱动动力学感兴趣。在实际量子平台中，耗散、退相干和测量往往不可避免。理解驱动、相互作用、耗散和测量之间的相互作用，不仅对于非平衡量子物理本身很重要，也对量子计算、量子传感和量子控制的实际实现具有直接意义。
 
-**相关成果：** 在受驱动量子系统方向，我研究周期驱动、多频驱动和准周期驱动系统中的预热化、哈密顿量工程与非平衡相。相关工作表明，即使在远离平衡的受驱动系统中，系统也可以在很长时间尺度上进入稳定的预热化平台，从而为 Floquet 相、准 Floquet 动力学和量子控制提供物理基础。
-
+**相关成果：** 
 - **Experimental realization of discrete time quasicrystals**  
   *Physical Review X* 15, 011055 (2025)
 - **Quasi-floquet prethermalization in a disordered dipolar spin ensemble in diamond**  
