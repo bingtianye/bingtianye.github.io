@@ -45,13 +45,13 @@ author_profile: true
 
 **代表性成果：** 在量子增强精密测量方向，我研究如何利用多体相互作用制备可扩展的计量学纠缠态。相关工作包括在 Rydberg 原子阵列中实现可扩展的自旋压缩，以及从有限温度 easy-plane 磁性出发理解自旋压缩的产生机制。这些工作将量子计量学与多体磁性、非平衡动力学和可编程量子模拟联系起来。
 
--  **Robust multiparameter estimation using quantum scrambling**
+-  **Robust multiparameter estimation using quantum scrambling**  
   arXiv:2601.23283 (2026)
--  **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**
+-  **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**  
   *Nature* 646, 74 (2025)
--  **Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism**
+-  **Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism**  
   *Nature Physics* 20, 1575 (2024)
-- **Scalable spin squeezing in a dipolar Rydberg atom array**
+- **Scalable spin squeezing in a dipolar Rydberg atom array**  
   *Nature* 621, 728 (2023)
 
 
