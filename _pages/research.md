@@ -15,7 +15,6 @@ author_profile: true
 
 **代表性成果：** 在可控量子平台方向，我与实验合作研究了 Rydberg 原子阵列、金刚石中的氮空位中心、二维偶极自旋体系以及范德瓦尔斯材料中的自旋缺陷等平台。这些系统为研究多体动力学、量子模拟、量子传感和量子控制提供了互补的实验环境。
 
-- **Probing stress and magnetism at high pressures with two-dimensional quantum sensors**, *Nature Communications* **16**, 8162 (2025).
 - **Probing many-body dynamics in a two-dimensional dipolar spin ensemble**
   *Nature Physics* 19, 836 (2023)
 - **Isotope engineering for spin defects in van der Waals materials**, *Nature Communications* **15**, 104 (2024).
@@ -31,9 +30,10 @@ author_profile: true
 
 **代表性成果：** 在量子信息与量子控制方向，我研究如何利用量子多体动力学实现信息编码、纠缠生成、量子线路采样和可编程控制。这一方向把量子信息理论、量子混沌和 AMO 平台中的可控动力学联系起来，为量子计算和量子模拟提供新的理论工具。
 
-- **Robust multiparameter estimation using quantum scrambling**, arXiv:2601.23283 (2026).
-- **How much can we learn from quantum random circuit sampling?**, arXiv:2510.09919 (2025).
-- **Measuring out-of-time-order correlators on a nuclear magnetic resonance quantum simulator**, *Physical Review X* **7**, 031011 (2017).
+- **How much can we learn from quantum random circuit sampling?**
+  arXiv:2510.09919 (2025)
+- **Exploiting disorder to probe spin and energy hydrodynamics**  
+  *Nature Physics* 19, 1027 (2023)
 
 ## 量子传感与量子增强精密测量
 
@@ -49,6 +49,8 @@ author_profile: true
   arXiv:2601.23283 (2026)
 -  **Spin squeezing in an ensemble of nitrogen-vacancy centres in diamond**  
   *Nature* 646, 74 (2025)
+- **Probing stress and magnetism at high pressures with two-dimensional quantum sensors**
+  *Nature Communications* 16, 8162 (2025)
 -  **Scalable Spin Squeezing from Finite Temperature Easy-plane Magnetism**  
   *Nature Physics* 20, 1575 (2024)
 - **Scalable spin squeezing in a dipolar Rydberg atom array**  
@@ -82,12 +84,12 @@ author_profile: true
 
 **代表性成果：** 在涌现流体力学方向，我研究量子多体系统如何在长时间、大尺度下表现出有效经典的输运行为，以及哪些普适类能够描述这种动力学。相关工作从理论和实验两个层面研究了非平衡量子系统中的扩散、反常输运和 KPZ 普适性，并展示了可控量子平台如何直接观测这些长时间动力学规律。
 
-- **Exploiting disorder to probe spin and energy hydrodynamics**  
-  *Nature Physics* 19, 1027 (2023)
 - **Universal Kardar-Parisi-Zhang dynamics in integrable quantum systems**  
   *Physical Review Letters* 129, 230602 (2022)
 - **Quantum gas microscopy of Kardar-Parisi-Zhang superdiffusion**  
   *Science* 376, 716 (2022)
+- **Emergent ergodicity at the transition between many-body localized phases**
+  *Physical Review Letters* 126, 100604 (2021)
 - **Emergent hydrodynamics in a strongly interacting dipolar spin ensemble**  
   *Nature* 597, 45 (2021)
 - **Emergent hydrodynamics in nonequilibrium quantum systems**  
