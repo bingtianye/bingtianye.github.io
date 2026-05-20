@@ -19,12 +19,12 @@ redirect_from:
 
 奖励与荣誉
 -----
-2025 &emsp;&emsp;&ensp;&ensp;&thinsp; 美国物理学会（APS）Deborah Jin Thesis Award Finalist  
-2017 &emsp;&emsp;&ensp;&ensp;&thinsp; 北京市优秀毕业生
+2025 &emsp;&emsp;&ensp;&ensp;&thinsp;&thinsp; 美国物理学会（APS）Deborah Jin Thesis Award Finalist  
+2017 &emsp;&emsp;&ensp;&ensp;&thinsp;&thinsp; 北京市优秀毕业生
   
 教学经历
 -----
-2019 &ensp;&ensp;&ensp;&thinsp; 加州大学伯克利分校 Advanced Atomic, Molecular and Optical Physics 课程助教  
+2019 &ensp;&ensp;&ensp; 加州大学伯克利分校 Advanced Atomic, Molecular and Optical Physics 课程助教  
 2016，2017 &ensp;&thinsp; 北京大学普通物理课程助教  
   
 <!-- Talks
