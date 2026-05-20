@@ -25,8 +25,7 @@ redirect_from:
 教学经历
 -----
 2019 &ensp;&thinsp; 加州大学伯克利分校 Advanced Atomic, Molecular and Optical Physics 课程助教  
-2017 &ensp;&thinsp; 北京大学普通物理课程助教  
-2016 &ensp;&thinsp; 北京大学普通物理课程助教  
+2016，2017 &ensp;&thinsp; 北京大学普通物理课程助教  
   
 <!-- Talks
 ======
