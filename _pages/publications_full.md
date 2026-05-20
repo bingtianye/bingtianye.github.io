@@ -56,12 +56,12 @@ __*Phys. Rev. Lett.*__ 129, 230602 (2022)
 
 * [Exploiting disorder to probe spin and energy hydrodynamics](https://www.nature.com/articles/s41567-023-02024-4)  
 P. Peng\*, __B. Ye__\*, N. Y. Yao, P. Cappellaro  
-__*Nature Physics*__ , 19, 1027 (2023)  
+__*Nature Physics*__ 19, 1027 (2023)  
 &emsp; $\circ$ *Nature Physics Research Briefing*: [A local probe for many-body physics](https://www.nature.com/articles/s41567-023-02051-1)  
 
 * [Probing many-body noise in a strongly interacting two-dimensional dipolar spin system](https://www.nature.com/articles/s41567-023-01944-5)  
 E. J. Davis\*, __B. Ye__\*,  F. Machado\*, S. A. Meynell, W. Wu, T. Mittiga, W. Schenken, M. Joos, B. Kobrin, Y. Lyu, Z. Wang, D. Bluvstein, S. Choi, C. Zu, A. C. Bleszynski Jayich, N. Y. Yao  
-__*Nature Physics*__ , (2023)  
+__*Nature Physics*__ 19, 836 (2023)  
 &emsp; $\circ$ *Nature Physics Research Briefing*: [Confining quantum spin defects to two dimensions](https://www.nature.com/articles/s41567-023-01947-2)  
 &emsp; $\circ$ *Physics Viewpoint*: [Spin-Interaction Studies Take on a New Dimension](https://physics.aps.org/articles/v16/1)
 
