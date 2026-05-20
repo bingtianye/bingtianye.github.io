@@ -67,13 +67,13 @@ author_profile: true
 
 **相关成果：** 
 
-- **Probing many-body dynamics in a two-dimensional dipolar spin ensemble**
+- **Probing many-body dynamics in a two-dimensional dipolar spin ensemble**  
   *Nature Physics* 19, 836 (2023)
 - **Universal Kardar-Parisi-Zhang dynamics in integrable quantum systems**  
   *Physical Review Letters* 129, 230602 (2022)
 - **Quantum gas microscopy of Kardar-Parisi-Zhang superdiffusion**  
   *Science* 376, 716 (2022)
-- **Emergent ergodicity at the transition between many-body localized phases**
+- **Emergent ergodicity at the transition between many-body localized phases**  
   *Physical Review Letters* 126, 100604 (2021)
 - **Emergent hydrodynamics in a strongly interacting dipolar spin ensemble**  
   *Nature* 597, 45 (2021)
