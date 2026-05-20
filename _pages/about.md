@@ -18,4 +18,4 @@ About Me
 Contact
 -----
 邮箱: bingtianye@gmail.com  
-地址: Building 6-308, 77 Massachusetts Avenue, Cambridge, MA, 02139
+地址: Room 6-308, 77 Massachusetts Avenue, Cambridge, MA, 02139
