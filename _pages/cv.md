@@ -19,8 +19,8 @@ redirect_from:
 
 奖励与荣誉
 -----
-2025 &emsp;&emsp;&emsp;&emsp;&ensp;&thinsp; 美国物理学会（APS）Deborah Jin Thesis Award Finalist  
-2017 &emsp;&emsp;&emsp;&emsp;&ensp;&thinsp; 北京市优秀毕业生
+2025 &emsp;&emsp;&ensp;&thinsp; 美国物理学会（APS）Deborah Jin Thesis Award Finalist  
+2017 &emsp;&emsp;&ensp;&thinsp; 北京市优秀毕业生
   
 教学经历
 -----
